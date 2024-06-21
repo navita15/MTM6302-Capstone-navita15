@@ -17,6 +17,11 @@ Style.css
 Output: 
 ![Screenshot (65)](https://github.com/navita15/MTM6302-Capstone-navita15/assets/133902865/9e09faa2-7607-479a-b389-29e9e9a7a05f)
 
+From Part II
+
+![Screenshot (86)](https://github.com/navita15/MTM6302-Capstone-navita15/assets/133902865/52deb0d7-075b-43e8-8ffe-d994f7ba3858)
+
+
 
 
 
